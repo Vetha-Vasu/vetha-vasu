@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Vetha👋
+### Aspiring Data Analyst | Turning Raw Data into Actionable Business Insights 📊
 
-<!--
-**Vetha-Vasu/vetha-vasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a detail-oriented Data Analyst fresher passionate about solving real-world business problems using data. I specialize in quering databases, cleaning messy datasets, and building interactivedashboards that help stakeholders make informed decisions.
 
-Here are some ideas to get you started:
+- 💼 **Looking for:** Entry-Level Data Analyst roles.
+- 🌱 **Currently Learning:** Advanced Data Modeling.
+- ⚡ **Fun fact:** I treat my personal grocery list like a relational database to keep it optimized.
+---
+### 🛠️ My Tech Stack & Tools
+|:--- | :---|
+| **Databases/ Querying** | MySQL|
+|**Data Visualization** | Power BI, Microsoft Exccel |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📁 Featured Data Analytics Projects
+
+
