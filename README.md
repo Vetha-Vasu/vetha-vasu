@@ -1,7 +1,7 @@
-## Hi there, I'm Vetha👋
+## 🌸 Hi there, I'm Vetha👋
 ### Aspiring Data Analyst | Turning Raw Data into Actionable Business Insights 📊
 
-I am a detail-oriented Data Analyst fresher passionate about solving real-world business problems using data. I specialize in quering databases, cleaning messy datasets, and building interactivedashboards that help stakeholders make informed decisions.
+I am a detail-oriented Data Analyst fresher passionate about solving real-world business problems using data. I specialize in quering databases, cleaning messy datasets, and building interactive dashboards that help stakeholders make informed decisions.
 
 - 💼 **Looking for:** Entry-Level Data Analyst roles.
 - 🌱 **Currently Learning:** Advanced Data Modeling.
