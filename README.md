@@ -10,7 +10,7 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
 ### 🛠️ My Tech Stack & Tools
 |:--- | :---|
 | **Databases/ Querying** | MySQL|
-|**Data Visualization** | Power BI, Microsoft Exccel |
+|**Data Visualization** | Power BI, Microsoft Excel |
 
 ---
 
