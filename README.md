@@ -11,6 +11,7 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 ---
 
 ### 📁 Featured Data Analytics Projects
