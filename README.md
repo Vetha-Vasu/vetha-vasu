@@ -25,5 +25,6 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
   * **Goal:** Built an interactive dashboard tracking Bestsellers, Peak hours, and Sales Performance.
   *  **Tech Used:** SQL, Power BI.
   *  **Key Outcome:** Indentified Peak hours and days for staff optimization, Pinpoint underperforming pizza type, Visualize revenue drivers to maximize profit margins.
+  *  **Link:** (https://github.com/Vetha-Vasu/Pizza-Sales-DashBoard.git)
 
 
