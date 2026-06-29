@@ -14,7 +14,7 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
 ### 📁 Featured Data Analytics Projects
 #### 1. [Secure watch SOC DashBoard] 
 * **Goal:** Build an interactive dashboard tracking key performance metrics with Total Incidents, Average Response Time, Data Breaches and Firewall Uptime.
-* **Tech Used:** Power BI.
+* **Tech Used:** Power BI, Power Query(Import Mode), DAX.
 * **Key Outcome:** Identified  Incident Trend Analysis, Threat Vector & Severity Profiling. Also, Provided Interactive silcers to filter **Risk Level**, **Category** and **deparment**.
 * **Link:** (https://github.com/Vetha-Vasu/Secure-watch-SOC-Dashboard.git)
 
