@@ -19,7 +19,7 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
 * **Link:** (https://github.com/Vetha-Vasu/Secure-watch-SOC-Dashboard.git)
 
 #### 2. [Pizza Sales DashBoard]
-  * **Goal:** Build an interactive dashboard tracking Bestsellers, Peak hours, and Sales Performance.
+  * **Goal:** Build an interactive dashboard tracking key performance metrics with Total Revenue, Total Pizzas Sold, Total Orders Placed, Average Order Value, Average Pizzas Per Order, Top and Bottom Performers.
   *  **Tech Used:** SQL, Power BI.
   *  **Key Outcome:** Indentified Peak hours and days for staff optimization, Pinpoint underperforming pizza type, Visualize revenue drivers to maximize profit margins.
   *  **Link:** (https://github.com/Vetha-Vasu/Pizza-Sales-DashBoard.git)
