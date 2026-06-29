@@ -23,5 +23,8 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
   *  **Tech Used:** SQL, Power BI.
   *  **Key Outcome:** Indentified Peak hours and days for staff optimization, Pinpoint underperforming pizza type, Visualize revenue drivers to maximize profit margins.
   *  **Link:** (https://github.com/Vetha-Vasu/Pizza-Sales-DashBoard.git)
-
-
+#### 3. [Coffee Sales Dashboard]
+  * **Goal:** Build an interactive dashboard tracking Total Revenue, Total Transaction, Total Profit, Profit Margin, Average Order Value.
+  * **Tech Used:** Power BI.
+  * **Key Outcome:** Indentified Performance Trends, Operational Breakdown, Product and Regional Performance.
+  * **Links:** (https://github.com/Vetha-Vasu/Coffee-Sales-Dashboard)
