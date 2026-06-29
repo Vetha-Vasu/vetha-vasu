@@ -26,5 +26,5 @@ I am a detail-oriented Data Analyst fresher passionate about solving real-world 
 #### 3. [Coffee Sales Dashboard]
   * **Goal:** Build an interactive dashboard tracking Total Revenue, Total Transaction, Total Profit, Profit Margin, Average Order Value.
   * **Tech Used:** Power BI.
-  * **Key Outcome:** Indentified Performance Trends, Operational Breakdown, Product and Regional Performance.
+  * **Key Outcome:** Indentified Performance Trends, Operational Breakdown, Product and Regional Performance. Also, Provided Interactive Controls for Store Type Filter, Year Filter and Regional Filter.
   * **Links:** (https://github.com/Vetha-Vasu/Coffee-Sales-Dashboard)
